@@ -19,3 +19,4 @@
   <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
 
+![Snake animation](https://github.com/BielSOusaa/BielSOusaa/blob/output/github-contribution-grid-snake.svg)
