@@ -1,4 +1,9 @@
+## SuP <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">
 
+## I am Gabriel! 
+
+- I am 19 years old
+- Student (Computer science)
 
 
 
